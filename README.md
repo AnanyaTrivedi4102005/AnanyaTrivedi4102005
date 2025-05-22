@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ananya Trivedi
-- 😄 I'm in 2nd Year of my B.Tech.
+- 😄 I'm in 3rd Year of my B.Tech.
 - 🌱 Currently persuaing my degree from PDEU, Gandhinagar.
 - 👀 Interested in iOS App Development
 - 📍 Catch me on my LinkedIn : https://www.linkedin.com/in/ananya-trivedi-930423293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
