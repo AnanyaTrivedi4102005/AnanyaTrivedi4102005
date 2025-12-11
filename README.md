@@ -1,6 +1,6 @@
 <h1 align="center">🎀 Ananya Trivedi</h1>
 <p align="center">
-  <strong>FDeveloper × Designer × Creative Technologist × Entrepreneurship</strong>
+  <strong>Developer × Designer × Creative Technologist × Entrepreneurship</strong>
 </p>
 
 ---
