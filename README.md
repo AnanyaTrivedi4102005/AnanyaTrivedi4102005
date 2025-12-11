@@ -47,7 +47,9 @@ These showcase: *creativity, visual clarity, and solid engineering fundamentals.
 
 ## 🎯 What I’m Aiming For
 To become a *strong hybrid*:
+
 Design intuition → Engineering skill → Product mindset.
+
 I want to build apps and interfaces that feel delightful and purposeful.
 
 ---
