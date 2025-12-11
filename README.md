@@ -39,7 +39,7 @@ I want to build apps and interfaces that feel delightful and purposeful.
 
 ## 📬 Connect
 - LinkedIn: www.linkedin.com/in/ananya-trivedi4102005
-- GitHub: github.com/AnanyaTrivedi4102005
+- GitHub: https://github.com/AnanyaTrivedi4102005
 - Email: atrvd2005@gmail.com
 
 ### ⚡ I love building things that look good, work smoothly, and make an impact.
